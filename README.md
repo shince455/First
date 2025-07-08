@@ -48,9 +48,8 @@ The original dataset was taken from:
 
 - Power BI Desktop  
 - DAX (Calculated Columns, Measures)  
-  ```Total Sales = SUM(Sales[Sales Amount])
-  Total Sales = SUM(Sales[Sales Amount])
-  Profit Margin = DIVIDE([Total Profit], [Total Sales])
+  ```Revenue = SUM('sales transactions'[Custom_sales_amount])
+     Sales Qty = SUM('sales transactions'[sales_qty])
 - SQL (Data validation and cross-checking)
 - Data modeling and relationship building
 - Interactive visualization design
