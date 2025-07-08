@@ -32,6 +32,16 @@ This project presents an interactive **Sales Analysis Dashboard** built using **
 <img width="800" alt="Dashboard" src="https://github.com/user-attachments/assets/03f3e447-587a-43de-a015-0facbcae8696" />
 
 ---
+## Key takeaways from the analysis:
+
+- Top-Performing Products: Identified the highest revenue-generating products and categories, helping prioritize inventory and marketing strategies.
+- Sales by Region: Revealed regional sales trends and highlighted high-performing states, enabling location-based decision-making.
+- Revenue Growth: Tracked monthly and yearly revenue trends to evaluate the company’s growth trajectory over time.
+- Customer Segments: Analyzed customer types and their impact on total revenue.
+- Profitability Analysis: Used DAX to calculate profit margins and compare performance across different product categories and customer segments.
+- Currency Normalization: A custom column was created to standardize foreign currency sales into a single currency (INR), using conditional logic.
+All results were validated using SQL queries on the original dataset, ensuring accuracy and consistency between raw data and visual representation.
+
 ##  Data Source
 
 The original dataset was taken from:
