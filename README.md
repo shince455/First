@@ -48,7 +48,8 @@ The original dataset was taken from:
 
 - Power BI Desktop  
 - DAX (Calculated Columns, Measures)  
-  ```Revenue = SUM('sales transactions'[Custom_sales_amount])
+  ```
+     Revenue = SUM('sales transactions'[Custom_sales_amount])
      Sales Qty = SUM('sales transactions'[sales_qty])
 - SQL (Data validation and cross-checking)
 - Data modeling and relationship building
