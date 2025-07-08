@@ -46,11 +46,11 @@ The original dataset was taken from:
 
 ##  Tools & Skills Demonstrated
 
-- Power BI Desktop
-- DAX (Calculated Columns, Measures)
-- SQL (Data validation and cross-checking)
-- Data modeling and relationship building
-- Interactive visualization design
+- Power BI Desktop  
+- DAX (Calculated Columns, Measures)  
+  ```Total Sales = SUM(Sales[Sales Amount])
+  Total Sales = SUM(Sales[Sales Amount])
+  Profit Margin = DIVIDE([Total Profit], [Total Sales])
 
 ---
 
