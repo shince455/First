@@ -60,7 +60,7 @@ The original dataset was taken from:
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore the visuals interactively or use filters to drill into specific segments.
 
->  **Note**: You must have Power BI Desktop installed to open `.pbix` files.
+ **Note**: You must have Power BI Desktop installed to open `.pbix` files.
 
 ---
 
