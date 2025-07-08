@@ -51,7 +51,9 @@ The original dataset was taken from:
   ```Total Sales = SUM(Sales[Sales Amount])
   Total Sales = SUM(Sales[Sales Amount])
   Profit Margin = DIVIDE([Total Profit], [Total Sales])
-
+- SQL (Data validation and cross-checking)
+- Data modeling and relationship building
+- Interactive visualization design
 ---
 
 ##  How to Use
