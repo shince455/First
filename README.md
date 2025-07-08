@@ -29,8 +29,7 @@ This project presents an interactive **Sales Analysis Dashboard** built using **
 ---
 
 ##  Dashboard_Screenshot
-![Sales Dashboard Screenshot](https://github.com/shince455/First/blob/main/Dashboard.png)
-
+<img width="777" alt="Dashboard" src="https://github.com/user-attachments/assets/03f3e447-587a-43de-a015-0facbcae8696" />
 ---
 
 ##  Data Source
