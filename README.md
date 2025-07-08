@@ -24,7 +24,7 @@ This project presents an interactive **Sales Analysis Dashboard** built using **
 - Year-over-Year comparison and percentage growth
 - Top 5 performing products and customers by revenue
 - Region-wise breakdown using interactive maps
-- Monthly trend analysis using line and bar charts
+- Monthly trend analysis using line chart
 
 ---
 
