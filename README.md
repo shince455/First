@@ -40,7 +40,7 @@ The original dataset was taken from:
 
 - The data was provided in SQL format and downloaded for the analysis purposes.
 - SQL queries were run to validate the output seen in Power BI.
-- **DAX (Data Analysis Expressions)** was used extensively for data manipulation, calculations, and the creation of custom measures within Power BI.
+- **DAX (Data Analysis Expressions)** was used for data manipulation, calculations, and the creation of custom measures within Power BI.
 
 ---
 
